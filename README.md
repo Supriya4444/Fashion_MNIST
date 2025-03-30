@@ -11,5 +11,6 @@ An RNN-based question-answering system, built using PyTorch, with a dataset comp
 # RNN-based Question-Answering System
 
 >> Built using PyTorch
+ 
 >> Used an open-source dataset, comprised of 100 general questions and answers
 >>>>>>> 4ed39e3 (Update README.md)
